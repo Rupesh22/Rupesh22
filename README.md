@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rupesh22
-- 👀 I’m interested in front-end technologiess
+- 👀 I’m interested in front-end technologies
 - 🌱 I’m currently learning Next.js, mongoDB and JS
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me ...
